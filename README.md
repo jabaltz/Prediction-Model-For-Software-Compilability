@@ -6,7 +6,7 @@ These codes are developed for research at [USC Center for Systems and Software E
 Our research group works on applying mining software repository techniques to understand the correlation of software architecture/code changes,
 software quality, software evolution and technical debt in open-source software systems.
 
-These codes perform source code analysis in term of [software compilability](https://ieeexplore.ieee.org/document/8009930/) ). 
+These codes perform source code analysis in term of [software compilability](https://ieeexplore.ieee.org/document/8009930/). 
 We analyze the repository of open-source software systems and make a prediction model to
 predict whether commits will break the compilability of the software (called uncompilable commits). 
 
